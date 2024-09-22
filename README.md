@@ -30,7 +30,7 @@ This Unity asset provides a simple and efficient way to add destructible platfor
 
 1. Clone or download the repository into your Unity project's `Assets` folder.
    ```bash
-   git clone https://github.com/Chris91ss/2D-Destructible_Platform
+   git clone https://github.com/Chris91ss/2D-Destructible_Platform.git
    ```
 2. Open Unity and refresh your assets to import the script.
 
